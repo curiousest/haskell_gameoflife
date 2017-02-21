@@ -1,2 +1,5 @@
 *.o
+*.hi
 dist/
+.idea
+.idea/*
